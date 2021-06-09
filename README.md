@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PrrJohson
-- 👀 I’m interested in learning Python, JavaScript and Java.
+- 👋 Hi, I’m @Mor
+- 👀 I’m interested in learning Python, JavaScript and AWS.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python projects but currently I am still novice.
 - 📫 You can reach me on telegram, username:Mre
