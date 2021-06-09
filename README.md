@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mor
+- 👋 Hi, I’m @Merci
 - 👀 I’m interested in learning Python, JavaScript and AWS.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python projects but currently I am still novice.
-- 📫 You can reach me on telegram, username:Mre
+- 📫 You can reach me on telegram, username:Merci
 
 <!---
 PrrJohson/PrrJohson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
